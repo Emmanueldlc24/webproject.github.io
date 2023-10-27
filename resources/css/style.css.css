@@ -8,8 +8,29 @@ h1 {
     padding: 10px;
 }
 .font {
-    border: 1px solid;
+    
     margin-top: 10px;
     text-align: center;
     text-decoration: none;
+}
+.font .times {
+    font-family: 'Times New Roman', Times, serif;
+}
+.font .arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.styles {
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 10px;
+}
+.styles .bold {
+    font-weight: 700;
+}
+.styles .italic {
+    font-style: italic;
+}
+.styles .variations {
+    text-align: left;
 }
