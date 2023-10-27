@@ -7,7 +7,9 @@ h1 {
     border: 1px solid;
     padding: 10px;
 }
-.color {
-    display: inline;
+.font {
+    border: 1px solid;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
 }
-
