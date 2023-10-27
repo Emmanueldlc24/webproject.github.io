@@ -2,4 +2,12 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: black;
+}.image {
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
 }
+.color {
+    display: inline;
+}
+
